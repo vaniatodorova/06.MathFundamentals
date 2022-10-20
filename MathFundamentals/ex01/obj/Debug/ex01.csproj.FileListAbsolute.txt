@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\11\06.MathFundamentals\MathFundamentals\ex01\bin\Debug\ex01.exe.config
-C:\Users\User\Desktop\11\06.MathFundamentals\MathFundamentals\ex01\bin\Debug\ex01.exe
-C:\Users\User\Desktop\11\06.MathFundamentals\MathFundamentals\ex01\bin\Debug\ex01.pdb
-C:\Users\User\Desktop\11\06.MathFundamentals\MathFundamentals\ex01\obj\Debug\ex01.csprojAssemblyReference.cache
-C:\Users\User\Desktop\11\06.MathFundamentals\MathFundamentals\ex01\obj\Debug\ex01.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\11\06.MathFundamentals\MathFundamentals\ex01\obj\Debug\ex01.exe
-C:\Users\User\Desktop\11\06.MathFundamentals\MathFundamentals\ex01\obj\Debug\ex01.pdb
