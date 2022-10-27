@@ -1,0 +1,7 @@
+F:\11a\06.MathFundamentals\MathFundamentals\ex02\bin\Debug\ex02.exe.config
+F:\11a\06.MathFundamentals\MathFundamentals\ex02\bin\Debug\ex02.exe
+F:\11a\06.MathFundamentals\MathFundamentals\ex02\bin\Debug\ex02.pdb
+F:\11a\06.MathFundamentals\MathFundamentals\ex02\obj\Debug\ex02.csprojAssemblyReference.cache
+F:\11a\06.MathFundamentals\MathFundamentals\ex02\obj\Debug\ex02.csproj.CoreCompileInputs.cache
+F:\11a\06.MathFundamentals\MathFundamentals\ex02\obj\Debug\ex02.exe
+F:\11a\06.MathFundamentals\MathFundamentals\ex02\obj\Debug\ex02.pdb
